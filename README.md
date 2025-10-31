@@ -1,3 +1,9 @@
-Odin Projects
+Projects
 ----------------
 odin-recipes
+
+
+
+Exercises
+----------------
+css-exercises
